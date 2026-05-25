@@ -291,10 +291,10 @@ transition : all 500ms ease;
     margin:16px
 }
 
-.project__desrciption--link{
+.project__description--link{
     font-size: 20px;
     margin-right: 16px;
-    text-decoration:none;
+    text-decoration: none;
 
 
 }
